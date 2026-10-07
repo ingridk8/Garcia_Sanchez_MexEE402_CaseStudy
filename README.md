@@ -8,8 +8,8 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Garcia, Russel L. |22-01130| |
-| Sanchez, Ingrid Keight V. |23-03344 | |
+| Garcia, Russel L. |22-01130|MEXE-4101 |
+| Sanchez, Ingrid Keight V. |23-03344 |MEXE-4101 |
 
 ## Notebook links
 
