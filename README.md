@@ -52,26 +52,117 @@ Any other page or article you used.
 ## CHAPTER QUESTIONS
 <details><summary>Chapter 1, 2, and 3</summary>
 <p>
-  
+
 <details><summary>1. What is data preprocessing, and why do we do it before machine learning?</summary>
 <p>
-  <details><summary>GARCIA</summary>
-<p>
-  INSERT ANSWER HERE
-</p>
-</details>
 
-<br>
-  <details><summary>Sanchez</summary>
+<details><summary>GARCIA</summary>
 <p>
-  INSERT ANSWER HERE
-</p>
-</details>
+INSERT ANSWER HERE
 </p>
 </details>
 
 <br>
 
+<details><summary>Sanchez</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>2. What does each of these functions show you: `head()`, `info()`, and `describe()`?</summary>
+<p>
+
+<details><summary>GARCIA</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>Sanchez</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>3. Which columns in the dataset had missing values, and how many missing values did each column have?</summary>
+<p>
+
+<details><summary>GARCIA</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>Sanchez</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>4. What are the two methods used in the notebook to handle missing data, and when should each method be used?</summary>
+<p>
+
+<details><summary>GARCIA</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>Sanchez</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>5. Why was the `Rank` column removed from the dataset?</summary>
+<p>
+
+<details><summary>GARCIA</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>Sanchez</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+</p>
+</details>
 <details><summary>2. What does each of these show you: head(), info(), and describe()?</summary>
 <p>
   
