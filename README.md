@@ -166,7 +166,7 @@ ____
 </details>
 
 <details>
-<summary>Chapter 4: Feature Engineering and Encoding</summary>
+<summary>CHAPTER 4: Feature Engineering and Encoding</summary>
 <p>
 
 <details><summary>1. What is feature engineering, and why is it useful in machine learning?</summary>
@@ -280,7 +280,7 @@ INSERT ANSWER HERE
 ____
 </details>
 
-<details><summary>Chapter 5: Scaling and Normalization</summary>
+<details><summary>CHAPTER 5: Scaling and Normalization</summary>
 <p>
 
 <details><summary>1. What is data scaling, and why is it important in machine learning?</summary>
@@ -393,7 +393,7 @@ INSERT ANSWER HERE
 ____
 </details> 
 
-<details><summary>Chapter 6: Outlier Detection</summary>
+<details><summary>CHAPTER 6: Outlier Detection</summary>
 <p>
 
 <details><summary>1. What is an outlier, and how can it affect a dataset?</summary>
