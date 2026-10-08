@@ -23,28 +23,45 @@ Batangas State University, Alangilan Campus
 | Ch8 | [[link](https://colab.research.google.com/drive/1YBtE-SjNbBg6HgEboCKx0U5RCQCLhFBe?usp=drive_link)] | [link]() |
 | Ch9 | [[link](https://colab.research.google.com/drive/1Xzqsjon068yBz_mA9sPu2f6_r8LhkIBT?usp=drive_link)] | [link]() |
 
-## What we learned
+## 📖 What we learned
+### Chapter 1, 2, and 3
+  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. 
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
+### Chapter 4
+  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood.
 
-## Errors we found
+### Chapter 5
+  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood.
+
+### Chapter 6
+  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. 
+
+### Chapter 7
+  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood.
+
+### Chapter 8
+  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. 
+
+### Chapter 9
+  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. 
+
+## ⚠️ Errors we found
 
 In **Chapter 7**, `the variable x must be changed to X`. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code.
 
 For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 
-## Note on AI tools
+## ⚙️ Note on AI tools
 
 Artificial Intelligence were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations. The use of **Gemini** as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
 
-## References
+## 📌 References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
 Any other page or article you used.
 
-## CHAPTER QUESTIONS
+## 💡 CHAPTER QUESTIONS
 
 <details>
 <summary>CHAPTER 1, 2, and 3</summary>
