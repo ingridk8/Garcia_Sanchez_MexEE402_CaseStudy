@@ -40,8 +40,7 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+Artificial Intelligence were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations. The use of Gemini as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
 
 ## References
 
