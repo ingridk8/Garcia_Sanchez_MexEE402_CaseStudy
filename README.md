@@ -163,10 +163,280 @@ INSERT ANSWER HERE
 
 </p>
 </details>
-<details><summary>2. What does each of these show you: head(), info(), and describe()?</summary>
+
+<details><summary>Chapter 4: Feature Engineering and Encoding</summary>
 <p>
-  
+
+<details><summary>1. What is feature engineering, and why is it useful in machine learning?</summary>
+<p>
+INSERT ANSWER HERE
 </p>
+</details>
+
+<br>
+
+<details><summary>2. How was `Lemonade per Degree` calculated, and what information does it provide?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>3. What is binning, and what are the four temperature labels used in the notebook?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>4. What is an interaction feature? Give an example from the notebook.</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>5. What is the difference between one-hot encoding and ordinal encoding, and when should each be used?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>Chapter 5: Scaling and Normalization</summary>
+<p>
+
+<details><summary>1. What is data scaling, and why is it important in machine learning?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>2. What does `StandardScaler` do to the mean and standard deviation of a feature?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>3. What range of values does `MinMaxScaler` normally produce?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>4. Why can features with significantly different numerical ranges affect some machine learning models?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>5. Is scaling always necessary? What does the need for scaling depend on?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>Chapter 6: Outlier Detection</summary>
+<p>
+
+<details><summary>1. What is an outlier, and how can it affect a dataset?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>2. How does the Z-score method identify outliers, and what cutoff was used in the notebook?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>3. How does the IQR method identify outliers? Write the formulas for the lower and upper fences.</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>4. Which value in the sample dataset was identified as an outlier, and what was its Z-score?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>5. What are two possible ways to handle an outlier after identifying it?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>Chapter 7: Feature Selection</summary>
+<p>
+
+<details><summary>1. What is feature selection, and why is it useful in machine learning?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>2. How does the Filter Method determine which features should be selected?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>3. What does `RFECV` do step by step when selecting features?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>4. What does `LassoCV` do to features that are considered unimportant?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>5. Which features were selected by the Filter, Wrapper, and Embedded methods?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>Chapter 8: Constructing a Preprocessing Pipeline</summary>
+<p>
+
+<details><summary>1. What is a preprocessing pipeline, and how can it be compared to a conveyor belt?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>2. What are the three main reasons for using a preprocessing pipeline?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>3. What two preprocessing steps were included in the pipeline, and in what order were they performed?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>4. What is the purpose of `ColumnTransformer`?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>5. Which two columns of the Titanic dataset were preprocessed in this chapter?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
+
+<br>
+
+<details><summary>Chapter 9: Full Pipeline and Visualization</summary>
+<p>
+
+<details><summary>1. Which columns were treated as numerical features and which were treated as categorical features?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>2. How were missing values handled for the numerical and categorical features?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>3. What is discretization, and what three age labels and age ranges were used in the notebook?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>4. Name three plots created in the notebook and explain what information each plot shows.</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+<br>
+
+<details><summary>5. Why is it useful to visualize the data after preprocessing?</summary>
+<p>
+INSERT ANSWER HERE
+</p>
+</details>
+
+</p>
+</details>
 </details>
 <br>
 </p>
