@@ -49,35 +49,3 @@ Any other page or article you used.
 <summary><strong>Chapter 1,2, and 3</strong></summary>
 <br>
 <details>
-
-<details>
-<summary><strong>Chapter 4</strong></summary>
-<br>
-<details>
-
-<details>
-<summary><strong>Chapter 5</strong></summary>
-<br>
-<details>
-
-<details>
-<summary><strong>Chapter 6</strong></summary>
-<br>
-<details>
-
-<details>
-<summary><strong>Chapter 7</strong></summary>
-<br>
-<details>
-
-<details>
-<summary><strong>Chapter 8</strong></summary>
-<br>
-<details>
-
-<details>
-<summary><strong>Chapter 2</strong></summary>
-<br>
-<details>
-
-
