@@ -254,8 +254,6 @@ INSERT ANSWER HERE
 </p>
 </details>
 
-<br>
-
 <details><summary>Chapter 6: Outlier Detection</summary>
 <p>
 
@@ -300,8 +298,6 @@ INSERT ANSWER HERE
 </p>
 </details>
 
-<br>
-
 <details><summary>Chapter 7: Feature Selection</summary>
 <p>
 
@@ -345,8 +341,6 @@ INSERT ANSWER HERE
 
 </p>
 </details>
-
-<br>
 
 <details><summary>Chapter 8: Constructing a Preprocessing Pipeline</summary>
 <p>
