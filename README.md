@@ -208,8 +208,6 @@ INSERT ANSWER HERE
 </p>
 </details>
 
-<br>
-
 <details><summary>Chapter 5: Scaling and Normalization</summary>
 <p>
 
@@ -386,8 +384,6 @@ INSERT ANSWER HERE
 </p>
 </details>
 
-<br>
-
 <details><summary>Chapter 9: Full Pipeline and Visualization</summary>
 <p>
 
@@ -420,8 +416,6 @@ INSERT ANSWER HERE
 INSERT ANSWER HERE
 </p>
 </details>
-
-<br>
 
 <details><summary>5. Why is it useful to visualize the data after preprocessing?</summary>
 <p>
