@@ -30,17 +30,13 @@ you and what surprised you. Not what the library does, but what you understood.
 
 ## Errors we found
 
-In Chapter 7, the variable x must be changed to X. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code.
+In **Chapter 7**, `the variable x must be changed to X`. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code.
 
-For Chapters 1, 8, and 9, running the code without the CSV file will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
-
-
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 
 ## Note on AI tools
 
-Artificial Intelligence were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations. The use of Gemini as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
+Artificial Intelligence were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations. The use of **Gemini** as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
 
 ## References
 
@@ -62,7 +58,7 @@ Any other page or article you used.
   INSERT ANSWER HERE
   </p>
   </details>
-
+  
 <br>
 
 <details><summary>SANCHEZ</summary>
