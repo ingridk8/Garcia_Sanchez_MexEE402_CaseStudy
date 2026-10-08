@@ -45,9 +45,33 @@ VanderPlas, J. Python Data Science Handbook.
 Any other page or article you used.
 
 ## CHAPTER QUESTIONS
-<details> </details>
-<summary><strong>Chapter 1,2, and 3</strong></summary>
+<details><summary>Chapter 1, 2, and 3</summary>
+<p>
+  
+<details><summary>1. What is data preprocessing, and why do we do it before machine learning?</summary>
+<p>
+  <details><summary>GARCIA</summary>
+<p>
+  INSERT ANSWER HERE
+</p>
+</details>
+
 <br>
-<Garcia>
+  <details><summary>Sanchez</summary>
+<p>
+  INSERT ANSWER HERE
+</p>
+</details>
+</p>
+</details>
+
 <br>
-<Sanchez>
+
+<details><summary>2. What does each of these show you: head(), info(), and describe()?</summary>
+<p>
+  
+</p>
+</details>
+<br>
+</p>
+</details>
