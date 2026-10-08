@@ -30,6 +30,11 @@ you and what surprised you. Not what the library does, but what you understood.
 
 ## Errors we found
 
+In Chapter 7, the variable x must be changed to X. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code.
+
+For Chapters 1, 8, and 9, running the code without the CSV file will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
+
+
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
