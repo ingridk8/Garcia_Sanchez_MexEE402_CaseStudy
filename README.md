@@ -506,7 +506,7 @@ INSERT ANSWER HERE
 ____
 </details>
 
-<details><summary>Chapter 7: Feature Selection</summary>
+<details><summary>CHAPTER 7: Feature Selection</summary>
 <p>
 
 <details><summary>1. What is feature selection, and why is it useful in machine learning?</summary>
@@ -619,7 +619,7 @@ INSERT ANSWER HERE
 ____
 </details>
 
-<details><summary>Chapter 8: Constructing a Preprocessing Pipeline</summary>
+<details><summary>CHAPTER 8: Constructing a Preprocessing Pipeline</summary>
 <p>
 
 <details><summary>1. What is a preprocessing pipeline, and how can it be compared to a conveyor belt?</summary>
@@ -734,7 +734,7 @@ INSERT ANSWER HERE
 </details>
 
 
-<details><summary>Chapter 9: Full Pipeline and Visualization</summary>
+<details><summary>CHAPTER 9: Full Pipeline and Visualization</summary>
 <p>
 
 <details><summary>1. Which columns were treated as numerical features and which were treated as categorical features?</summary>
