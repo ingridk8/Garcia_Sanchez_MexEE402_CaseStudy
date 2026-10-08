@@ -45,7 +45,9 @@ VanderPlas, J. Python Data Science Handbook.
 Any other page or article you used.
 
 ## CHAPTER QUESTIONS
-<details>
+
 <summary><strong>Chapter 1,2, and 3</strong></summary>
 <br>
-<details>
+<Garcia>
+<br>
+<Sanchez>
