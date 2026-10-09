@@ -74,6 +74,12 @@ The concept queries we asked the AI tool focused on understanding how the Z-scor
 
 **Chapter 7**
 
+In Chapter 7, an error was encountered because the variable x was written in lowercase instead of uppercase X. Python is case-sensitive, so using inconsistent capitalization caused an issue in the code. Another issue occurred when running RFECV, which produced multiple runtime warnings.
+
+We asked the AI tool for suggestions on how to fix the errors in Chapter 7. Gemini suggested changing the variable x to X to maintain consistency throughout the code. It also suggested reducing the number of cross-validation folds to cv=2 or using a larger dataset to address the runtime warnings when running RFECV.
+
+The concept queries we asked the AI tool focused on understanding why Python distinguishes between uppercase and lowercase variable names and why consistency is important when writing code. We also asked about the purpose of RFECV, why runtime warnings occur during cross-validation, and how reducing the number of folds or increasing the dataset size could help address these issues.
+
 - Error explanation
 - Code programming suggestions
 - Concepts queries
