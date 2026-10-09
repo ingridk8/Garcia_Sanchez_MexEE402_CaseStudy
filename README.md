@@ -57,22 +57,22 @@ Batangas State University — Alangilan Campus
 
 ## 📖 What we learned
 
-### Chapter 1, 2, and 3
+### 🔹Chapter 1, 2, and 3
 - Basing on our personal experience, considering this as one of the first few try on Google Colab, we were able to discover basic functions such as insertion of texts/codes and uploading of files. This is also the chapter where we encountered numerous errors which also means this area taught us to troubleshoot and adjust the codes as needed. Importing of necessary libraries in order to run the whole program were also learned from this chapter.
 
-### Chapter 4
+### 🔹 Chapter 4
   - One of the main takeaways from this chapter is how efficient it is to learn how to code especially when you need to categorize continuous values into discrete categories. We believe utilizing Feature engineering and binning will be quite useful on our future pursuit for our research/thesis/capstone. Just like the given examples where instead of just direct and specific temperatures, they were categorized to cool, warm, and hot it allows others, even non-engineering students to somehow grasp what we are working with. 
 
-### Chapter 5
+### 🔹Chapter 5
   - As the name suggests from this chapter, we have learned a principle that it is important to level out the playing field. Considering that there were observable variance in the given ranges, it is important that although they relate to each other, we cannot imply their proportionality without first making sure that they are on the same level. The data shown already seemed to be accurate upon first glance but adjusting them to  be on the same footing allowed us to actually understand their relation
 
-### Chapter 6
+### 🔹Chapter 6
   - We have learned from processing outliers is that aside from being just the "odd one out" among a data set, although both are useful, there are two contrasting approaches we can do to utilize them, depending on how or when we need them. To put into view, outliers can provide essential information such as indicating the limit or maximum/minimum of data set but at the same time it can be discarded if deemed as an error.
 
-### Chapter 7
+### 🔹Chapter 7
   - Just like from the other previous chapters, we have appreciated how much more convenient it is to learn how to code for visual representations such as tables and that it comes in handy when dealing with plenty numerical values. Even more so, since we were faced with a lot of numbers, it is easy to miss basic errors such as the use of capitalization of variables which we encountered in this chapter. Not only did this chapter taught correlation but also vigilance in the works that we do. 
 
-### Chapter 8
+### 🔹Chapter 8
   - We put in mind that in order to check if our codes are correct, we must restart the session, run it all again and the program should not crash. However, we have observed that once we have exited the program, we have to upload `train.csv` to the files once again. To fix that, we have changed and updated the provided codes so that whenever we restart the program, the files are already uploaded and we can proceed with running the program right away. As suggested by our instructor as well, this stimulated us to think outside the box and explore more what we know about coding and apply it to this case study. 
 
 ### Chapter 9
