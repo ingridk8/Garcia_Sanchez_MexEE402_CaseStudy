@@ -25,7 +25,7 @@ Batangas State University, Alangilan Campus
 
 ## 📖 What we learned
 ### Chapter 1, 2, and 3
-  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. 
+  - Basing on our personal experience, considering this as one of the first few try on Google Colab, we were able to discover basic functions such as insertion of texts/codes and uploading of files. This is also the chapter where we encountered numerous errors which also means this area taught us to troubleshoot and adjust the codes as needed. Importing of necessary libraries in order to run the whole program were also learned from this chapter.
 
 ### Chapter 4
   - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood.
