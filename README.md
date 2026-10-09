@@ -48,7 +48,7 @@ Batangas State University, Alangilan Campus
 ## ⚠️ Errors we found
 In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold should be 2 instead of 3 and code should be as follows: `outliers = data[np.abs(z_scores) > 2]`. If the code stays with threshold being 3, the code program will not produce an outlier.
 
-In **Chapter 7**, `the variable x must be changed to X`. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code.
+In **Chapter 7**, `the variable x must be changed to X`. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code. Another issue is when running RFECV , Python throws multiple runtime warnings. to fix it,either reduce the cross-validation folds (e.g., cv=2) or provide a larger dataset.
 
 For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 
