@@ -77,15 +77,17 @@ In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold s
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3ed8cf1c-3dfd-48f7-9b54-639569e45f64" width="900" alt="CH6">
+  <img src="https://github.com/user-attachments/assets/ea57868d-a76d-4b8a-9bd6-1bd540a7a4a2" width="900" alt="CH6">
 </p>
 
 In **Chapter 7**, `the variable x must be changed to X`. There should be a consistency in using either capital X or lowercase x; we use capital X throughout the code. Another issue is when running RFECV , Python throws multiple runtime warnings. To fix it, either reduce the cross-validation folds `(e.g., cv=2)` or provide a larger dataset.
 
 For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56565f8c-7b35-49f1-8e6e-48350f74f7b2" width="900" alt="CH6">
+  <img src="https://github.com/user-attachments/assets/9d6b2741-c572-4908-aefe-84ed1af7651d" width="900" alt="CH6">
 </p>
+
+
 
 ## ⚙️ Note on AI tools
 
