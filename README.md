@@ -77,7 +77,7 @@ In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold s
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40164a14-5a81-4859-aadc-6ad366ef0c41" width="700" alt="CH6">
+  <img src="https://github.com/user-attachments/assets/40164a14-5a81-4859-aadc-6ad366ef0c41" width="900" alt="CH6">
 </p>
 
 
@@ -85,7 +85,7 @@ In **Chapter 7**, `the variable x must be changed to X`. There should be a consi
 
 For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56565f8c-7b35-49f1-8e6e-48350f74f7b2" width="700" alt="CH6">
+  <img src="https://github.com/user-attachments/assets/56565f8c-7b35-49f1-8e6e-48350f74f7b2" width="900" alt="CH6">
 </p>
 
 ## ⚙️ Note on AI tools
