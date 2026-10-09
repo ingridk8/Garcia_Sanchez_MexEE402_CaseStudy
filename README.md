@@ -1,14 +1,24 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="6" bgcolor="#2563EB"></td>
+<td>
+
 # 📘 MexEE 402
 
 ## DATA PREPROCESSING CASE STUDY
 
 **MexEE Elective 2: Data Science and Machine Learning**
 
-Batangas State University, Alangilan Campus
+Batangas State University — Alangilan Campus
 
-**1st Semester, Academic Year 2026–2027**
+1st Semester, AY 2026–2027
+
+</td>
+</tr>
+</table>
+
 
 ---
 
