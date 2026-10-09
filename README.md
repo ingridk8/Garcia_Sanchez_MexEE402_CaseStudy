@@ -18,7 +18,7 @@ Batangas State University — Alangilan Campus
 
 ---
 
-## 👥 Project Members
+## 👥Members
 
 <table>
   <thead>
