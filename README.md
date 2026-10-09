@@ -56,6 +56,10 @@ For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause
 
 Artificial Intelligence were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations. The use of **Gemini** as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
 
+- Error explanation
+- Code programming suggestions
+- Concepts queries
+
 **Chapter 1**
 
 In Chapter 1, uploading a CSV file from our file manager to the sample_data folder in Google Colab caused the execution of Run all or the runtime to crash because of insufficient code to handle the file.
