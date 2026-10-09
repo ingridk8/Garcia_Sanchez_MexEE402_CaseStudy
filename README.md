@@ -88,9 +88,7 @@ We asked the AI tool for suggestions on how to prevent these errors. Gemini sugg
 
 The concept queries we asked the AI tool focused on how to check whether a CSV file already exists, how to use if-else conditions for file handling, and how to prompt the user to upload a file only when necessary. These queries helped us understand how conditional statements can make the code more efficient and prevent errors when rerunning the notebooks in Google Colab.
 
-- Error explanation
-- Code programming suggestions
-- Concepts queries
+
 
 ## 📌 References
 
