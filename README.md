@@ -17,14 +17,6 @@ Batangas State University — Alangilan Campus
 
 </div>
 
-
-
----
-
-*An Applied Study of Data Preparation Techniques Using Python and Google Colab*
-
-</div>
-
 ---
 
 ## 👥Members
