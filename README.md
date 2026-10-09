@@ -1,8 +1,22 @@
-# MexEE 402: Data Preprocessing Case Study
+<div align="center">
 
-MexEE Elective 2: Data Science and Machine Learning
-Batangas State University, Alangilan Campus
-1st Semester, AY 2026-2027
+# 📘 MexEE 402
+
+## DATA PREPROCESSING CASE STUDY
+
+**MexEE Elective 2: Data Science and Machine Learning**
+
+Batangas State University — Alangilan Campus
+
+**1st Semester, Academic Year 2026–2027**
+
+---
+
+*An Applied Study of Data Preparation Techniques Using Python and Google Colab*
+
+</div>
+
+---
 
 ## 👥 Members
 
