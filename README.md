@@ -80,6 +80,14 @@ We asked the AI tool for suggestions on how to fix the errors in Chapter 7. Gemi
 
 The concept queries we asked the AI tool focused on understanding why Python distinguishes between uppercase and lowercase variable names and why consistency is important when writing code. We also asked about the purpose of RFECV, why runtime warnings occur during cross-validation, and how reducing the number of folds or increasing the dataset size could help address these issues.
 
+**Chapter 8 and 9**
+
+In Chapters 8 and 9, an error occurred when running the code without the required CSV file. In the original notebooks, the program repeatedly asked the user to upload the CSV file whenever the code was executed, which could cause issues when running all the cells again in Google Colab.
+
+We asked the AI tool for suggestions on how to prevent these errors. Gemini suggested adding an if-else condition to check whether the required CSV file is already available. If the file exists, the code proceeds with the dataset; otherwise, it asks the user to upload the file. This prevents unnecessary upload prompts when reopening the notebook and running all the cells again.
+
+The concept queries we asked the AI tool focused on how to check whether a CSV file already exists, how to use if-else conditions for file handling, and how to prompt the user to upload a file only when necessary. These queries helped us understand how conditional statements can make the code more efficient and prevent errors when rerunning the notebooks in Google Colab.
+
 - Error explanation
 - Code programming suggestions
 - Concepts queries
