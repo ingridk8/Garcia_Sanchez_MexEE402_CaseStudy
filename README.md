@@ -25,10 +25,10 @@ Batangas State University, Alangilan Campus
 
 ## 📖 What we learned
 ### Chapter 1, 2, and 3
-  - Basing on our personal experience, considering this as one of the first few try on Google Colab, we were able to discover basic functions such as insertion of texts/codes and uploading of files. This is also the chapter where we encountered numerous errors which also means this area taught us to troubleshoot and adjust the codes as needed. Importing of necessary libraries in order to run the whole program were also learned from this chapter.
+- Basing on our personal experience, considering this as one of the first few try on Google Colab, we were able to discover basic functions such as insertion of texts/codes and uploading of files. This is also the chapter where we encountered numerous errors which also means this area taught us to troubleshoot and adjust the codes as needed. Importing of necessary libraries in order to run the whole program were also learned from this chapter.
 
 ### Chapter 4
-  - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood.
+  - One of the main takeaways from this chapter is how efficient it is to learn how to code especially when you need to categorize continuous values into discrete categories. We believe utilizing Feature engineering and binning will be quite useful on our future pursuit for our research/thesis/capstone. Just like the given examples where instead of just direct and specific temperatures, they were categorized to cool, warm, and hot it allows others, even non-engineering students to somehow grasp what we are working with. 
 
 ### Chapter 5
   - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood.
