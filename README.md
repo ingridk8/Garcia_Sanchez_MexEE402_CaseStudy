@@ -64,7 +64,15 @@ We asked the AI tool for suggestions, and we added an if-else statement. If a CS
 
 The concept queries we asked the AI tool were about how to ask the user to upload a file, rename it, and put it in the sample_data folder.
 
-**Chapter 2**
+**Chapter 6**
+
+During Chapter 6, an error was encountered when identifying outliers using the Z-score method. The code did not produce the expected outlier value of 100 because the Z-score threshold was set to 3 instead of 2.
+
+We asked the AI tool for suggestions on how to fix the code to identify the outlier value of 100. Gemini suggested changing the Z-score threshold from 3 to 2 using the following code: outliers = data[np.abs(z_scores) > 2]. This adjustment allowed the code to identify the expected outlier based on the given dataset.
+
+The concept queries we asked the AI tool focused on understanding how the Z-score method works and how its threshold affects outlier detection. We also asked how changing the threshold from 3 to 2 could help identify the value of 100 as an outlier in the dataset.
+
+**Chapter 7**
 
 - Error explanation
 - Code programming suggestions
