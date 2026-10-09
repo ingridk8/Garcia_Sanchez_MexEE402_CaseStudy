@@ -95,6 +95,11 @@ Errors were discovered mostly on **Chapter 1, 6, 7, 8, and 9** and AI were as fo
   <img src="https://github.com/user-attachments/assets/40164a14-5a81-4859-aadc-6ad366ef0c41" width="400" alt="CH6">
 </p>
 
+  <img src="https://github.com/user-attachments/assets/56565f8c-7b35-49f1-8e6e-48350f74f7b2" width="400" alt="CH6">
+</p>
+
+
+
 
 ## 📌 References
 
