@@ -80,7 +80,7 @@ In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold s
   <img src="https://github.com/user-attachments/assets/ea57868d-a76d-4b8a-9bd6-1bd540a7a4a2" width="900" alt="CH6">
 </p>
 
-In **Chapter 7**, `the variable x must be changed to X`. There should be a consistency in using either capital X or lowercase x; we use capital X throughout the code. Another issue is when running RFECV , Python throws multiple runtime warnings. To fix it, either reduce the cross-validation folds `(e.g., cv=2)` or provide a larger dataset.
+In **Chapter 7**, `the variable x must be changed to X`. There should be a consistency in using either capital X or lowercase x; we use capital X throughout the code. However, upon rechecking and comparing, the issue with the variable capitalization was no longer recurring. We believe that it is best that programmers and students stay vigilant of these minor inconsistencies, in case that these are just program bugs and lags. Another issue is when running RFECV , Python throws multiple runtime warnings. To fix it, either reduce the cross-validation folds `(e.g., cv=2)` or provide a larger dataset.
 
 For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 <p align="center">
@@ -93,7 +93,7 @@ For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause
 
 Artificial Intelligence (AI) were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations and suggestions. The use of **Gemini** as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
 
-Errors were discovered mostly on **Chapter 1, 6, 7, 8, and 9** and AI were as follows:
+Errors were discovered mostly on **Chapter 1, 6, 7, 8, and 9** and AI were used as follows:
 - Error explanation
 - Code programming suggestions
 - Concepts queries
