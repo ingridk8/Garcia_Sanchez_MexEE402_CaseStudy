@@ -82,6 +82,10 @@ In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold s
 
 In **Chapter 7**, `the variable x must be changed to X`. There should be a consistency in using either capital X or lowercase x; we use capital X throughout the code. However, upon rechecking and comparing, the issue with the variable capitalization was no longer recurring. We believe that it is best that programmers and students stay vigilant of these minor inconsistencies, in case that these are just program bugs and lags. Another issue is when running RFECV , Python throws multiple runtime warnings. To fix it, either reduce the cross-validation folds `(e.g., cv=2)` or provide a larger dataset.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7662bb7b-3dcc-4332-ac31-c089d227518d" width="900" alt="CH6">
+</p>
+
 For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d6b2741-c572-4908-aefe-84ed1af7651d" width="900" alt="CH6">
