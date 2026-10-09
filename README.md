@@ -90,7 +90,9 @@ Errors were discovered mostly on **Chapter 1, 6, 7, 8, and 9** and AI were as fo
 - Code programming suggestions
 - Concepts queries
 
-
+<p align="center">
+<img src="<img width="1917" height="868" alt="CH6" src="https://github.com/user-attachments/assets/40164a14-5a81-4859-aadc-6ad366ef0c41" />
+" width="400">
 
 
 ## 📌 References
