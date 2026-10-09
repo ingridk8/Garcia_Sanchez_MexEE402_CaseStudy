@@ -4,14 +4,14 @@ MexEE Elective 2: Data Science and Machine Learning
 Batangas State University, Alangilan Campus
 1st Semester, AY 2026-2027
 
-## Members
+## 👥 Members
 
 | Name | Student Number | Section |
 |---|---|---|
 | Garcia, Russel L. |22-01130|MEXE-4101 |
 | Sanchez, Ingrid Keight V. |23-03344 |MEXE-4101 |
 
-## Notebook links
+## 🔗 Notebook links
 
 | Chapter | Member 1 | Member 2 |
 |---|---|---|
