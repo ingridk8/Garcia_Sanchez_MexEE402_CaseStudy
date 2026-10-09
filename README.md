@@ -75,7 +75,7 @@ Batangas State University — Alangilan Campus
 ### 🔹Chapter 8
   - We put in mind that in order to check if our codes are correct, we must restart the session, run it all again and the program should not crash. However, we have observed that once we have exited the program, we have to upload `train.csv` to the files once again. To fix that, we have changed and updated the provided codes so that whenever we restart the program, the files are already uploaded and we can proceed with running the program right away. As suggested by our instructor as well, this stimulated us to think outside the box and explore more what we know about coding and apply it to this case study. 
 
-### Chapter 9
+### 🔹Chapter 9
 
   - We learned eight data preprocessing techniques using the Titanic dataset, which helped us understand how to prepare data for machine learning. We learned how to handle missing values, reduce data skewness, remove unnecessary columns, group numerical values into categories, convert categorical data into numerical values, and standardize numerical features. We also explored how to fill missing values using SimpleImputer and organize preprocessing steps using pipelines and ColumnTransformer. In addition, we used pandas, os, and files.upload() to make loading the dataset easier. The code checks whether train.csv already exists in the /content/ directory and loads it automatically if available; otherwise, it allows us to upload the file. This makes our work in Google Colab more convenient by reducing the need to upload the same dataset repeatedly.
 
