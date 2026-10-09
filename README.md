@@ -1,9 +1,5 @@
-<div align="center">
 
-<table>
-<tr>
-<td width="6" bgcolor="#2563EB"></td>
-<td>
+<div align="center">
 
 # 📘 MexEE 402
 
@@ -13,11 +9,14 @@
 
 Batangas State University — Alangilan Campus
 
-1st Semester, AY 2026–2027
+**1st Semester, Academic Year 2026–2027**
 
-</td>
-</tr>
-</table>
+---
+
+*An Applied Study of Data Preparation Techniques Using Python and Google Colab*
+
+</div>
+
 
 
 ---
