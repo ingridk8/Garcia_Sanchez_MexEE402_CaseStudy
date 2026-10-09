@@ -63,7 +63,7 @@ For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause
 
 Artificial Intelligence (AI) were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations and suggestions. The use of **Gemini** as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
 
-Errors were discovered mostly on **Chapter 1, 6, 7, 8, and 9** and AI were used mainly for as follows:
+Errors were discovered mostly on **Chapter 1, 6, 7, 8, and 9** and AI were as follows:
 - Error explanation
 - Code programming suggestions
 - Concepts queries
