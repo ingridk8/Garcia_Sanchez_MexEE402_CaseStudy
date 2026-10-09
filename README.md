@@ -24,6 +24,7 @@ Batangas State University, Alangilan Campus
 | Ch9 | [Garcia](https://colab.research.google.com/drive/1Xzqsjon068yBz_mA9sPu2f6_r8LhkIBT?usp=drive_link) | [Sanchez](https://colab.research.google.com/drive/1ZZlKa_ROq1ZLdKytwNOfGOYwmIOgWe6I?usp=sharing) |
 
 ## 📖 What we learned
+
 ### Chapter 1, 2, and 3
 - Basing on our personal experience, considering this as one of the first few try on Google Colab, we were able to discover basic functions such as insertion of texts/codes and uploading of files. This is also the chapter where we encountered numerous errors which also means this area taught us to troubleshoot and adjust the codes as needed. Importing of necessary libraries in order to run the whole program were also learned from this chapter.
 
@@ -43,54 +44,30 @@ Batangas State University, Alangilan Campus
   - We put in mind that in order to check if our codes are correct, we must restart the session, run it all again and the program should not crash. However, we have observed that once we have exited the program, we have to upload `train.csv` to the files once again. To fix that, we have changed and updated the provided codes so that whenever we restart the program, the files are already uploaded and we can proceed with running the program right away. As suggested by our instructor as well, this stimulated us to think outside the box and explore more what we know about coding and apply it to this case study. 
 
 ### Chapter 9
+
   - We learned eight data preprocessing techniques using the Titanic dataset, which helped us understand how to prepare data for machine learning. We learned how to handle missing values, reduce data skewness, remove unnecessary columns, group numerical values into categories, convert categorical data into numerical values, and standardize numerical features. We also explored how to fill missing values using SimpleImputer and organize preprocessing steps using pipelines and ColumnTransformer. In addition, we used pandas, os, and files.upload() to make loading the dataset easier. The code checks whether train.csv already exists in the /content/ directory and loads it automatically if available; otherwise, it allows us to upload the file. This makes our work in Google Colab more convenient by reducing the need to upload the same dataset repeatedly.
 
 ## ⚠️ Errors we found
+
+<p align="justify">
+  
 In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold should be 2 instead of 3 and code should be as follows: `outliers = data[np.abs(z_scores) > 2]`. If the code stays with threshold being 3, the code program will not produce an outlier.
 
-In **Chapter 7**, `the variable x must be changed to X`. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code. Another issue is when running RFECV , Python throws multiple runtime warnings. to fix it,either reduce the cross-validation folds (e.g., cv=2) or provide a larger dataset.
+In **Chapter 7**, `the variable x must be changed to X`. There should be a consistency in using either capital X or lowercase x; we use capital X throughout the code. Another issue is when running RFECV , Python throws multiple runtime warnings. To fix it, either reduce the cross-validation folds `(e.g., cv=2)` or provide a larger dataset.
 
 For **Chapters 1, 8, and 9**, `running the code without the CSV file` will cause an error. In the original notebooks, the program repeatedly asks the user to upload the CSV file whenever the code is run. Therefore, we added an if-else condition so that the program only asks for the file when it is not already available. This prevents errors when the user reopens the Google Colab notebook and runs all the cells again.
 
+</p>
+
 ## ⚙️ Note on AI tools
 
-Artificial Intelligence were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations. The use of **Gemini** as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
+Artificial Intelligence (AI) were utilized accordingly in the making of this case study. During the trials and testing of the codes, there were errors encountered for which the application Google Colab suggested for explanations and suggestions. The use of **Gemini** as an AI tool helped resolve unfamiliar issues and explain parts of the programmed codes that were not fully understood by the students.
 
+Errors were discovered mostly on **Chapter 1, 6, 7, 8, and 9** and AI were used mainly for as follows:
 - Error explanation
 - Code programming suggestions
 - Concepts queries
 
-**Chapter 1**
-
-In Chapter 1, uploading a CSV file from our file manager to the sample_data folder in Google Colab caused the execution of Run all or the runtime to crash because of insufficient code to handle the file.
-
-We asked the AI tool for suggestions, and we added an if-else statement. If a CSV file is needed for the dataset, the code looks for that filename in the sample_data folder in Google Colab. Otherwise, it asks the user to upload the CSV file.
-
-The concept queries we asked the AI tool were about how to ask the user to upload a file, rename it, and put it in the sample_data folder.
-
-**Chapter 6**
-
-During Chapter 6, an error was encountered when identifying outliers using the Z-score method. The code did not produce the expected outlier value of 100 because the Z-score threshold was set to 3 instead of 2.
-
-We asked the AI tool for suggestions on how to fix the code to identify the outlier value of 100. Gemini suggested changing the Z-score threshold from 3 to 2 using the following code: outliers = data[np.abs(z_scores) > 2]. This adjustment allowed the code to identify the expected outlier based on the given dataset.
-
-The concept queries we asked the AI tool focused on understanding how the Z-score method works and how its threshold affects outlier detection. We also asked how changing the threshold from 3 to 2 could help identify the value of 100 as an outlier in the dataset.
-
-**Chapter 7**
-
-In Chapter 7, an error was encountered because the variable x was written in lowercase instead of uppercase X. Python is case-sensitive, so using inconsistent capitalization caused an issue in the code. Another issue occurred when running RFECV, which produced multiple runtime warnings.
-
-We asked the AI tool for suggestions on how to fix the errors in Chapter 7. Gemini suggested changing the variable x to X to maintain consistency throughout the code. It also suggested reducing the number of cross-validation folds to cv=2 or using a larger dataset to address the runtime warnings when running RFECV.
-
-The concept queries we asked the AI tool focused on understanding why Python distinguishes between uppercase and lowercase variable names and why consistency is important when writing code. We also asked about the purpose of RFECV, why runtime warnings occur during cross-validation, and how reducing the number of folds or increasing the dataset size could help address these issues.
-
-**Chapter 8 and 9**
-
-In Chapters 8 and 9, an error occurred when running the code without the required CSV file. In the original notebooks, the program repeatedly asked the user to upload the CSV file whenever the code was executed, which could cause issues when running all the cells again in Google Colab.
-
-We asked the AI tool for suggestions on how to prevent these errors. Gemini suggested adding an if-else condition to check whether the required CSV file is already available. If the file exists, the code proceeds with the dataset; otherwise, it asks the user to upload the file. This prevents unnecessary upload prompts when reopening the notebook and running all the cells again.
-
-The concept queries we asked the AI tool focused on how to check whether a CSV file already exists, how to use if-else conditions for file handling, and how to prompt the user to upload a file only when necessary. These queries helped us understand how conditional statements can make the code more efficient and prevent errors when rerunning the notebooks in Google Colab.
 
 
 
