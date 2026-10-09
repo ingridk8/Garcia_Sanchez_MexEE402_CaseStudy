@@ -46,7 +46,7 @@ Batangas State University, Alangilan Campus
   - One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per         chapter, Ch1_2_3 to Ch9. Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. One short paragraph per chapter, Ch1_2_3 to Ch9.        Say what the chapter taught you and what surprised you. Not what the library does, but what you understood. 
 
 ## ⚠️ Errors we found
-In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold should be 2 instead of 3 `outliers = data[np.abs(z_scores) > 2]`. If the code stays with threshold being 3, the code program will not produce an outlier and will stay blank
+In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold should be 2 instead of 3 and code should be as follows: `outliers = data[np.abs(z_scores) > 2]`. If the code stays with threshold being 3, the code program will not produce an outlier.
 
 In **Chapter 7**, `the variable x must be changed to X`. Please be consistent in using either capital X or lowercase x; we use capital X throughout the code.
 
