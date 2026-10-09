@@ -18,12 +18,30 @@ Batangas State University — Alangilan Campus
 
 ---
 
-## 👥 Members
+## 👥 Project Members
 
-| Name | Student Number | Section |
-|---|---|---|
-| Garcia, Russel L. |22-01130|MEXE-4101 |
-| Sanchez, Ingrid Keight V. |23-03344 |MEXE-4101 |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Student Name</th>
+      <th align="center">Student Number</th>
+      <th align="center">Section</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Garcia, Russel L.</td>
+      <td align="center">22-01130</td>
+      <td align="center">MEXE-4101</td>
+    </tr>
+    <tr>
+      <td>Sanchez, Ingrid Keight V.</td>
+      <td align="center">23-03344</td>
+      <td align="center">MEXE-4101</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 🔗 Notebook links
 
