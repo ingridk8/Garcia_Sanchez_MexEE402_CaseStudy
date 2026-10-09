@@ -77,9 +77,8 @@ In **Chapter 6**, in order to achieve an outlier of 100, the z-score threshold s
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40164a14-5a81-4859-aadc-6ad366ef0c41" width="900" alt="CH6">
+  <img src="https://github.com/user-attachments/assets/3ed8cf1c-3dfd-48f7-9b54-639569e45f64" width="900" alt="CH6">
 </p>
-
 
 In **Chapter 7**, `the variable x must be changed to X`. There should be a consistency in using either capital X or lowercase x; we use capital X throughout the code. Another issue is when running RFECV , Python throws multiple runtime warnings. To fix it, either reduce the cross-validation folds `(e.g., cv=2)` or provide a larger dataset.
 
